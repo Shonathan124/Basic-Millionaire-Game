@@ -1,0 +1,48 @@
+Igrac: wajksds
+Uspesno odgovorenih pitanja: 10
+Osvojen novac: 32,000 Din
+
+Igrac: dsak
+Uspesno odgovorenih pitanja: 15
+Osvojen novac: 1,000,000 Din
+
+Igrac: dads
+Uspesno odgovorenih pitanja: 3
+Osvojen novac: 300 Din
+
+Igrac: dsadsa
+Uspesno odgovorenih pitanja: 3
+Osvojen novac: 300 Din
+
+Igrac: sdassdas
+Uspesno odgovorenih pitanja: 1
+Osvojen novac: 100 Din
+
+Igrac: dsdasd
+Uspesno odgovorenih pitanja: 1
+Osvojen novac: 100 Din
+
+Igrac: dsadas
+Uspesno odgovorenih pitanja: 3
+Osvojen novac: 300 Din
+
+Igrac: dsda
+Uspesno odgovorenih pitanja: 1
+Osvojen novac: 100 Din
+
+Igrac: nenad
+Uspesno odgovorenih pitanja: 15
+Osvojen novac: 1,000,000 Din
+
+Igrac: nenad
+Uspesno odgovorenih pitanja: 5
+Osvojen novac: 1,000 Din
+
+Igrac: Nenad
+Uspesno odgovorenih pitanja: 5
+Osvojen novac: 1,000 Din
+
+Igrac: Nenad
+Uspesno odgovorenih pitanja: 0
+Osvojen novac: 0 Din
+

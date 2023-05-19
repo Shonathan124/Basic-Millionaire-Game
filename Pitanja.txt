@@ -1,0 +1,104 @@
+PC je skracenica od:
+A.Privatni klijent
+B.Personalni racunar
+C.Poljoprivredni katalog
+D.Personalni katalog
+B
+
+Linux je:
+A.Operativni sistem
+B.Komponenta Window operativnih sistema
+C.Komponenta Microsoft Office
+D.Masinski programski jezik
+A
+
+Koja od navedenih komponenti predstavlja I/O uredjaj?
+A.Modem
+B.Monitor
+C.Tastatura
+D.Mis
+A
+
+VPN je skracenica od:
+A.Virtual personal network
+B.Virtual personal name
+C.Virtual private network
+D.Virtual private name
+C
+
+Vrednost pi je:
+A.3,014
+B.3,12
+C.3,14
+D.3,15
+C
+
+Kombinacija grafike, teksta, animacija, muzike i videa zove se?
+A.Kompozicija
+B.Spektar
+C.Multimedija
+D.Programiranje
+C
+
+C++ je:
+A.Operativni sistem
+B.Komponenta Window operativnih sistema
+C.Objektno orijentisan programski jezik
+D.Masinski programski jezik
+D
+
+HTML je skracenica od:
+A.Hyper Text Markup Language
+B.Hibrid Text Multi Language
+C.Hyper Text Multi Language
+D.Hyper Text Multimedia Language
+A
+
+USB prevedeno znaci:
+A.Magistrala za serijski prenos
+B.Magistrala za paralelni prenos
+C.Magistrala za serijsko-paralelni prenos
+D.Univerzalna magistrala
+A
+
+Koji protokoli se koriste za konekciju za Internet?
+A.IPX/NETX
+B.TCP/IP
+C.IPX/IP
+D.DLC
+B
+
+Digitalnim sertifikatom na internetu se garantuje:
+A.Identitet
+B.Istinitost distribuiranog sadrzaja
+C.Sigurnost veze
+D.Kvalifikacija web sajta
+A
+
+Interna kes memorija koristi se da premosti veliku razliku u brzini izmedju
+A.Operativne memorije i hard diska
+B.Procesora i operativne memorije
+C.Procesora i I/O uredjaja
+D.GPU i CPU
+B
+
+Sa kojeg od navedenih uredjaja ne mozemo brisati podatke?
+A.Ram
+B.Rom
+C.Cache
+D.Disk
+B
+
+Koliko datoteka moze da se posalje u elektonsku poruku u prilogu?
+A.Samo jedna
+B.Ne vise od dve
+C.Jedna ili vise
+D.Dve
+C
+
+USB flash memorija moze se uvrstiti u:
+A.RAM memoriju
+B.ESPRAM memoriju
+C.EEPROM memoriju
+D.RIM memoriju
+C
